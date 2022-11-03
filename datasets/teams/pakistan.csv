@@ -1,0 +1,12 @@
+team_id,player_id,first_name,last_name,style,substyle,country,stats,prime
+pk92,pk92_1,Babar,Azam,batsman,-,Pakistan,0|0|0|0,3
+pk92,pk92_2,Muhammad,Rizwan,keeper,-,Pakistan,0|0|0|0,3
+pk92,pk92_3,Fakhar,Zaman,batsman,-,Pakistan,0|0|0|0,0
+pk92,pk92_4,Shan,Masood,batsman,-,Pakistan,0|0|0|0,0
+pk92,pk92_5,Iftikhar,Ahmed,batsman,-,Pakistan,0|0|0|0,0
+pk92,pk92_6,Shadab,Khan,allrounder,spinner,Pakistan,0|0|0|0,1
+pk92,pk92_7,Mohammad,Nawaz,allrounder,spinner,Pakistan,0|0|0|0,0
+pk92,pk92_8,Mohammad,Wasim,allrounder,pacer,Pakistan,0|0|0|0,0
+pk92,pk92_9,Shaheen,Afridi,bowler,pacer,Pakistan,0|0|0|0,2
+pk92,pk92_10,Haris,Rauf,bowler,pacer,Pakistan,0|0|0|0,1
+pk92,pk92_11,Naseem,Shah,bowler,pacer,Pakistan,0|0|0|0,1

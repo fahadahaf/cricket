@@ -1,0 +1,12 @@
+team_id,player_id,first_name,last_name,style,substyle,country,stats,prime
+in91,in91_1,KL,Rahul,batsman,-,India,0|0|0|0,0
+in91,in91_2,Rohit,Sharma,batsman,-,India,0|0|0|0,1
+in91,in91_3,Virat,Kohli,batsman,-,India,0|0|0|0,3
+in91,in91_4,Suryakumar,Yadav,batsman,-,India,0|0|0|0,0
+in91,in91_5,Dinesh,Karthik,keeper,-,India,0|0|0|0,0
+in91,in91_6,Hardik,Pandya,allrounder,pacer,India,0|0|0|0,0
+in91,in91_7,Axar,Patel,allrounder,spinner,India,0|0|0|0,0
+in91,in91_8,Ravichandran,Ashwin,bowler,spinner,India,0|0|0|0,0
+in91,in91_9,Mohammed,Shami,bowler,pacer,India,0|0|0|0,2
+in91,in91_10,Bhuvneshwar,Kumar,bowler,pacer,India,0|0|0|0,3
+in91,in91_11,Arshdeep,Singh,bowler,pacer,India,0|0|0|0,2
