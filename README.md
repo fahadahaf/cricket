@@ -1,1 +1,2 @@
-A strategy based cricket game.
+# Cricket Game
+### A strategy based cricket game.
